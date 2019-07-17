@@ -19,7 +19,7 @@ var newFacts=[];
 
 function johnLennonFacts(facts) {
   var i = 0;
-  while (i < 4){
+  while (i <= 3){
     newFacts = [`${facts[i]}!!!`];
    i = i + 1;
     
