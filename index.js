@@ -21,11 +21,10 @@ function johnLennonFacts(facts) {
   var i = 0;
   while (i < 4){
     newFacts = [`${facts[i]}!!!`];
-   
+   i = i + 1;
     
     }
-     i++;
-    return newFacts;
+     return newFacts;
 }
 
 johnLennonFacts();
