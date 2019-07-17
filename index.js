@@ -17,8 +17,9 @@ const facts = ["He was the last Beatle to learn to drive", "He was never a veget
 
 //var newFacts=[];
 
+
 function johnLennonFacts(facts) {
-  var i = 0;
+  let i = 0;
   while (i < 4){
     facts[i] = `${facts[i]}!!!`
     //newFacts = [`${facts[i]}!!!`];
