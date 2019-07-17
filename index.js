@@ -30,3 +30,7 @@ function johnLennonFacts(facts) {
 }
 
 johnLennonFacts();
+
+function iLoveTheBeatles () {
+
+}
