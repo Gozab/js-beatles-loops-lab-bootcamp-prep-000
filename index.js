@@ -31,6 +31,9 @@ function johnLennonFacts(facts) {
 
 johnLennonFacts();
 
-function iLoveTheBeatles () {
-
+function iLoveTheBeatles (num) {
+  var loveArr=[];
+  do {
+    
+  }while 
 }
