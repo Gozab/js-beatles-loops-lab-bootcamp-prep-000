@@ -21,7 +21,7 @@ const facts = ["He was the last Beatle to learn to drive", "He was never a veget
 function johnLennonFacts(facts) {
   let i = 0;
   while (i < 4){
-    facts[i] = `${facts[i]}!!!`
+    facts[i] = `${facts[i]}!!!`;
     //newFacts = [`${facts[i]}!!!`];
    i++;
     
